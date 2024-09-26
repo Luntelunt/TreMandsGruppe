@@ -13,6 +13,7 @@
             peters.see_mee();
             Doggo doggo = new Doggo();
             doggo.name = "Fido";
+            doggo.race = "chihuahua";
             doggo.PetDogg();
         }
     }
