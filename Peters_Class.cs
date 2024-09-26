@@ -12,7 +12,20 @@ namespace TreMandsGruppe
         public void see_mee()
         { 
             Console.WriteLine("peters klassse er bedst");
-            // ændret 
+
+            string start = @" 
+                     ___ _            _   
+                    / __| |_ __ _ _ _| |_ 
+                    \__ \  _/ _` | '_|  _|
+                    |___/\__\__,_|_|  \__|";
+
+            
+
+            Console.WriteLine(start);
+
+
+
+
         }
 
     }
