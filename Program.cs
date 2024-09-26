@@ -14,7 +14,11 @@
             Peters_Class peters = new Peters_Class();
             peters.see_mee();
 
-           Line line = new Line();
+            Doggo doggo = new Doggo();
+            doggo.name = "Fido";
+            doggo.race = "chihuahua";
+            doggo.PetDogg();
+
         }
     }
 }
