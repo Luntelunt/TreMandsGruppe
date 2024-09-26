@@ -20,6 +20,9 @@
             doggo.PetDogg();
             doggo.ShowDoggo();
 
+            Supa supawit = new Supa("Wizard", "Hoodie", "Laptop");
+            supawit.SupaStats();
+
         }
     }
 }
