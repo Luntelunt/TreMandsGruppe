@@ -15,5 +15,17 @@ namespace TreMandsGruppe
         {
             Console.WriteLine("Good boi! *pet* *pet*");
         }
+
+        public void ShowDoggo()
+        {
+            string doge = @"
+                        |\__/|
+                        |o  o|
+                        |_O__ \_____
+                           |        \
+                           |_________|";
+
+            Console.WriteLine(doge);
+        }
     }
 }

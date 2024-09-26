@@ -18,6 +18,7 @@
             doggo.name = "Fido";
             doggo.race = "chihuahua";
             doggo.PetDogg();
+            doggo.ShowDoggo();
 
         }
     }
