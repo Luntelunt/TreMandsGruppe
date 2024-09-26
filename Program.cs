@@ -9,6 +9,7 @@
             int c = a * b;
            
             //testing testing
+
             Console.WriteLine("Hello, World! " + a + " * " + b + " = " + c);
 
             Peters_Class peters = new Peters_Class();
@@ -17,6 +18,7 @@
             Doggo doggo = new Doggo();
             doggo.name = "Fido";
             doggo.race = "chihuahua";
+            doggo.race = "rott";
             doggo.PetDogg();
 
         }
