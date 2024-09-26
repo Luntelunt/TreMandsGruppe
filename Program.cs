@@ -11,6 +11,9 @@
 
             Peters_Class peters = new Peters_Class();
             peters.see_mee();
+            Doggo doggo = new Doggo();
+            doggo.name = "Fido";
+            doggo.PetDogg();
         }
     }
 }
